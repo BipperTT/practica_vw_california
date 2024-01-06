@@ -16,7 +16,7 @@ fun precioActual(preuCoche: Int, km: Int, portabicis: Boolean, anys: Int): Float
     val pèrduaAnys = when {
         anys <= 5 -> 0.00001f
         anys in 6..10 -> 0.00002f
-        else -> 1 - 0.00004f
+        else -> 0.00004f
     }
 
     // Pérdida de valor por kilómetros recorridos
