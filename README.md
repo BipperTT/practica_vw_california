@@ -1,9 +1,25 @@
 # Pràctica Volkswagen Grand California
+
+<div align="center">
+
+<img alt="imatge vw california" src="https://autocaravanascompostela.es/wp-content/uploads/2022/02/van_volkswagen-grand-california-600-2_146.png">
+
+</div>
+
+<div align="center">    
+    <img src= https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white>
+    <img src= https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white>
+</div>
+
+<div align="center">
+    <img src= https://img.shields.io/github/repo-size/BipperTT/agua_factura>
+    <img src= https://img.shields.io/github/commit-activity/t/BipperTT/practica_vw_california?color=green>
+    <img src= https://img.shields.io/github/last-commit/BipperTT/practica_vw_california/main?color=green>
+</div>
+
+
 ## Descripció
 Aquesta aplicació calcula el preu de mercat d'una Volkswagen Grand California a partir dels seus km, anys, tipus de model i extres.
-## Il·lustració
-![Imatge de Volkswagen Grand California 600.](https://autocaravanascompostela.es/wp-content/uploads/2022/02/van_volkswagen-grand-california-600-2_146.png)
-(Imatge de Volkswagen Grand California 600.)
 ## Funcions
 ### Funció 1
 La funció més útil de totes i la que fa la "màgia", es la que calcula tenint en compte els km, anys i extres el preu d'aquest valuosa autocaravana.
