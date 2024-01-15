@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-    <img src= https://img.shields.io/github/repo-size/BipperTT/agua_factura>
+    <img src= https://img.shields.io/github/repo-size/BipperTT/practica_vw_california>
     <img src= https://img.shields.io/github/commit-activity/t/BipperTT/practica_vw_california?color=green>
     <img src= https://img.shields.io/github/last-commit/BipperTT/practica_vw_california/main?color=green>
 </div>
