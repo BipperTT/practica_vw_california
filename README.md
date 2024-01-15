@@ -18,6 +18,13 @@
 </div>
 
 
+## Índex 
+
+* [Descripció](#descripcio)
+* [Funcions](#funcions)
+* [Execució](#execució)
+* [Acomiadament](#acomiadament)
+
 ## Descripció
 Aquesta aplicació calcula el preu de mercat d'una Volkswagen Grand California a partir dels seus km, anys, tipus de model i extres.
 ## Funcions
