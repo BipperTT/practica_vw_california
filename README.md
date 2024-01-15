@@ -21,12 +21,12 @@
 ## Descripció
 Aquesta aplicació calcula el preu de mercat d'una Volkswagen Grand California a partir dels seus km, anys, tipus de model i extres.
 ## Funcions
-### Funció 1
+### Funció PrecioActual
 La funció més útil de totes i la que fa la "màgia", es la que calcula tenint en compte els km, anys i extres el preu d'aquest valuosa autocaravana.
 
 ![Captura de pantalla del codi de la funció precioActual.](https://i.imgur.com/WZ68tXx.png)
 
-### Funció 2
+### Funció menu
 Aquesta és la funció del menú, és reutilitzable per altres aplicacions similars, serveix per assegurar l'entrada d'un nombre enter.
 
 ![Captura de pantalla del codi de la funció menu.](https://i.imgur.com/6Mnbmww.png)
