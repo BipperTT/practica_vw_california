@@ -1,3 +1,4 @@
+
 # Pràctica Volkswagen Grand California
 
 <div align="center">
@@ -20,10 +21,42 @@
 
 ## Índex 
 
+* [Estructura del projecte](estructura-del-projecte)
 * [Descripció](#descripcio)
 * [Funcions](#funcions)
 * [Execució](#execució)
 * [Acomiadament](#acomiadament)
+
+## Estructura del projecte
+
+```bash
+├── .gitignore
+├── .idea
+│   ├── .gitignore
+│   ├── gradle.xml
+│   ├── kotlinc.xml
+│   ├── misc.xml
+│   └── vcs.xml
+├── build.gradle
+├── gradle.properties
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    └── main
+        └── kotlin
+            ├── Funciones.kt
+            ├── Main.kt
+            ├── consoleColors.kt
+            └── utilities.kt
+    
+       
+         
+```
 
 ## Descripció
 Aquesta aplicació calcula el preu de mercat d'una Volkswagen Grand California a partir dels seus km, anys, tipus de model i extres.
