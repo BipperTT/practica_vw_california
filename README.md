@@ -21,8 +21,8 @@
 
 ## Índex 
 
-* [Estructura del projecte](estructura-del-projecte)
-* [Descripció](#descripcio)
+* [Estructura del projecte](#estructura-del-projecte)
+* [Descripció](#descripció)
 * [Funcions](#funcions)
 * [Execució](#execució)
 * [Acomiadament](#acomiadament)
