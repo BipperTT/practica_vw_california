@@ -52,10 +52,7 @@
             ├── Funciones.kt
             ├── Main.kt
             ├── consoleColors.kt
-            └── utilities.kt
-    
-       
-         
+            └── utilities.kt       
 ```
 
 ## Descripció
